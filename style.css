@@ -1,0 +1,29 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+#navbar > *{
+    color: #1D267D;
+}
+
+.nav-btn{
+    transition: 0.3s all;
+}
+
+.nav-btn > a:hover{
+    color: #fff;
+}
+
+.nav-btn:hover{
+    background-color: #1D267D;
+}
+
+.color-primary{
+    color: #1D267D;
+}
+
+#home{
+    background-color: #1D267D;
+    color: #fff;
+}
+
+#services{
+    background-color: #7149C6;
+}
