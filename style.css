@@ -45,7 +45,7 @@ body{
 #home{
     background-color: #fff;
     color: black;
-    clip-path: ellipse(115% 52% at 73% 40%);
+    clip-path: polygon(0% 0%,100% 0%,100% 82%,0% 100%);
 
 }
 
