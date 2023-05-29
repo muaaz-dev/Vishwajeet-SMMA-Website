@@ -3,6 +3,10 @@
     color: #1D267D;
 } */
 
+.times{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .display-6{
     font-family: 'Times New Roman', Times, serif;
 }
@@ -51,7 +55,8 @@
 }
 
 #testimonials{
-    background-color: #7149C6;
+    background-color: #ffff;
+    color: black;
 }
 
 .card{
@@ -59,7 +64,7 @@
 }
 
 .icon-box{
-    background-color: #7b81b2;
+    background-color: #1D267D;
     border-radius: 30%;
     width: fit-content;
     block-size: fit-content;
@@ -67,10 +72,29 @@
 }
 
 .link-box{
-    background-color: #1D267D;
+    background-color: #fff;
+    color: #1D267D;
     border-radius: 10px;
     border-radius: 30%;
     width: fit-content;
     block-size: fit-content;
     padding: 20px;
+}
+
+.test-pallete{
+    background-color: #1D267D;
+    color: #fff;
+}
+
+.home-btn{
+    background-color: #fff;
+    color: #1D267D;
+    outline: solid 1px #1D267D;
+
+}
+
+.home-btn:hover{
+    background-color: #1D267D;
+    color: #fff;
+    
 }
