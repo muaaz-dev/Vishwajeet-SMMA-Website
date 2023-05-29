@@ -3,6 +3,10 @@
     color: #042fde;
 } */
 
+body{
+    background-color: #042fde;
+}
+
 .times{
     font-family: 'Times New Roman', Times, serif;
 }
@@ -41,6 +45,8 @@
 #home{
     background-color: #fff;
     color: black;
+    clip-path: ellipse(72% 52% at 70% 47%);
+
 }
 
 #below-home{
