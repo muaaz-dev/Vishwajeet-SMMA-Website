@@ -1,6 +1,6 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
 /* #navbar > *{
-    color: #1D267D;
+    color: #042fde;
 } */
 
 .times{
@@ -30,11 +30,12 @@
 
 .nav-btn:hover{
     color: #fff;
-    background-color: #1D267D;
+    background-color: 
+    #042fde;
 }
 
 .color-primary{
-    color: #1D267D;
+    color: #042fde;
 }
 
 #home{
@@ -43,11 +44,11 @@
 }
 
 #below-home{
-    background-color: #1D267D;
+    background-color: #042fde;
 }
 
 #services{
-    background-color: #1D267D;
+    background-color:#042fde;
 }
 
 .d-flex{
@@ -64,7 +65,8 @@
 }
 
 .icon-box{
-    background-color: #1D267D;
+    background-color: 
+    #042fde;
     border-radius: 30%;
     width: fit-content;
     block-size: fit-content;
@@ -73,7 +75,8 @@
 
 .link-box{
     background-color: #fff;
-    color: #1D267D;
+    color: 
+    #042fde;
     border-radius: 10px;
     border-radius: 30%;
     width: fit-content;
@@ -82,19 +85,18 @@
 }
 
 .test-pallete{
-    background-color: #1D267D;
+    background-color: #042fde;
     color: #fff;
 }
 
 .home-btn{
     background-color: #fff;
-    color: #1D267D;
-    outline: solid 1px #1D267D;
+    color: #042fde;
+    outline: solid 1px #042fde;
 
 }
 
 .home-btn:hover{
-    background-color: #1D267D;
+    background-color: #042fde;
     color: #fff;
-    
 }
